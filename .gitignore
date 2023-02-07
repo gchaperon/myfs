@@ -1,0 +1,5 @@
+/env/
+/tags
+
+*.egg-info/
+__pycache__/
